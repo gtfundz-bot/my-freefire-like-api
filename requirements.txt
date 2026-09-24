@@ -9,3 +9,5 @@ cachetools
 waitress
 python-dotenv
 gunicorn
+gunicorn
+httpx
